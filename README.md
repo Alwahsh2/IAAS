@@ -28,8 +28,3 @@ This project is an **Exam Management System** built using **Flask** for web appl
 4. Run the Celery worker by executing `celery -A celery_config.celery worker --loglevel=info`.
 5. Finally, start the Flask application by running `flask run`.
 
-## Outcomes
-- Improved skills in asynchronous processing with **Celery** and **Redis**.
-- Gained experience integrating **OpenAI API** for question generation.
-- Enhanced understanding of full-stack development with **Flask** and **Bootstrap**.
-- Implemented role-based authentication and database design with **SQLite**.
